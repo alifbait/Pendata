@@ -1,11 +1,11 @@
 # Penambangan Data
 
 
-Nama: Alif Baiatur Ridhwan El Habibie
-NIM : 240411100156
-Prodi : Teknik Informatika
-kelas : Penanmabang data IF4B
-Email : alifbaiatur@gmail.com
+Nama: Alif Baiatur Ridhwan El Habibie <br>
+NIM : 240411100156 <br>
+Prodi : Teknik Informatika <br>
+kelas : Penanmabang data IF4B <br>
+Email : alifbaiatur@gmail.com <br>
 
 ## Pengertian Penambangan Data
 Secara teknis, data mining merupakan proses yang menggunakan pendekatan statistik, matematika, serta kecerdasan buatan untuk menggali dan menemukan informasi, pengetahuan, maupun pola tertentu dari kumpulan data berukuran besar. Pola yang dihasilkan dapat berupa aturan bisnis, hubungan antarvariabel, tren, korelasi, hingga model prediksi.
